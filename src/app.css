@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f4e1;
+}
+
+.homepage {
+  text-align: center;
+}
+
+.hero-section {
+  background: url("hero-image.jpg") no-repeat center center/cover;
+  color: white;
+  padding: 50px 20px;
+}
+
+.cta-button {
+  background-color: #ff9800;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.spirituality-section {
+  background: #ffa726;
+  padding: 30px 20px;
+}
+
+.search-bar {
+  width: 80%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.idols-list {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.idol {
+  background: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.reviews-section {
+  background: #ffcc80;
+  padding: 30px 20px;
+}
+
+.reviews {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.review {
+  background: white;
+  padding: 15px;
+  border-radius: 5px;
+  max-width: 300px;
+}
+
+.newsletter-section {
+  background: #ffb74d;
+  padding: 30px 20px;
+}
+
+.newsletter-form input {
+  padding: 10px;
+  margin: 5px;
+}
+
+.subscribe-button {
+  background-color: #ff5722;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.footer {
+  background: #e65100;
+  color: white;
+  padding: 15px 0;
+}
